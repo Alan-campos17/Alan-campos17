@@ -4,9 +4,9 @@
   <img src="https://readme-visitor-badge.glitch.me/badge?page_id=Alan-campos17" alt="Visitor Badge" />
 </p>
 
-# 👋 Hi, I'm Alan Campos!
+# 👋 Olá, eu sou Alan Campos!
 
-🎮 **Game Programmer** | 🌐 **Web Developer** | 📊 **Data Scientist**  
+ 🎮 **Programador de Jogos** | 🌐 **Desenvolvedor Web** | 📊 **Cientista de Dados**  
 Always learning, always building!
 
 ---

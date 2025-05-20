@@ -34,6 +34,20 @@ Always learning, always building!
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=F7DF1E" alt="JavaScript Logo">  
   </a>
 </p>
+<p align="left">  
+    <a href="https://github.com/harish-sethuraman/readme-components">
+        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&animation=spin&svgfill=007396" alt="Java Logo">  
+    </a>
+</p>
+<p align="left">  
+    <a href="https://github.com/harish-sethuraman/readme-components">
+        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&animation=spin&svgfill=00599C" alt="C++ Logo">  
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+        <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=spin&svgfill=007ACC" alt="TypeScript Logo">  
+    </a>
+</p>
+
 
 ---
 

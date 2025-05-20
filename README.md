@@ -3,10 +3,6 @@
 <p align="center">
   <img src="https://readme-visitor-badge.glitch.me/badge?page_id=Alan-campos17" alt="Visitor Badge" />
 
-<a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656" alt="Stack Overflow Card" />
-  </a>
-  
 </p>
 
 # 👋 Olá, eu sou Alan Campos!

@@ -20,7 +20,7 @@ Always learning, always building!
 - 💡 Sempre explorando Python, JavaScript e React em busca de novas ideias
 
 ---
-
+[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components)
 ## 🛠️ Stack Tecnológico
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">

@@ -1,5 +1,167 @@
 <!-- Profile README for Alan-campos17 -->
+<!-- ===================================================== -->
+<!--                 DEVFLEX TERMINAL README               -->
+<!-- ===================================================== -->
 
+<p align="center">
+
+<img src="svg/dark.svg#gh-dark-mode-only" width="100%"/>
+
+<img src="svg/light.svg#gh-light-mode-only" width="100%"/>
+
+</p>
+
+<h1 align="center">
+
+Hi 👋 I'm Alan Campos Macena
+
+</h1>
+
+<h3 align="center">
+
+Founder of DevFlex • Full Stack Developer • ADS Student
+
+</h3>
+
+---
+
+```bash
+alan@devflex:~$ whoami
+
+Alan Campos Macena
+
+alan@devflex:~$ company
+
+Founder @ DevFlex
+
+alan@devflex:~$ education
+
+Analysis and Systems Development (ADS)
+
+Faculdades Integradas do Vale do Ivaí
+
+alan@devflex:~$ location
+
+Brazil 🇧🇷
+
+alan@devflex:~$ current
+
+Building websites.
+Building web apps.
+Building desktop applications.
+Building ideas.
+
+alan@devflex:~$ projects
+
+15+
+
+alan@devflex:~$ mission
+
+Transforming ideas into digital solutions.
+
+alan@devflex:~$ coffee
+
+███████████████ 100%
+```
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,firebase,supabase,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-campos17&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-campos17&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Alan-campos17&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-campos17&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌐 DevFlex | Web Development Company |
+| ☕ Delivery Coffee | Coffee Delivery Platform |
+| 🎮 Santa's Gift Rush | Christmas Game |
+| 🌱 Sustainability Simulator | Environmental Education |
+| 🤖 AI Assistant | Automation with Python |
+| 📱 Trilha IA | Smart Life Dashboard |
+| 🍳 Smart Recipes | Intelligent Recipe Book |
+
+---
+
+# 🌎 Connect with me
+
+<p align="center">
+
+<a href="https://github.com/Alan-campos17">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="https://linkedin.com">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:seuemail@email.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+# ☕
+
+```text
+██████████████████████████████████████
+
+Powered by Coffee ☕
+Built with Python 🐍
+Designed by Alan Campos Macena 🚀
+Founder of DevFlex
+
+██████████████████████████████████████
+```
+
+---
 <p align="center">
   <img src="https://readme-visitor-badge.glitch.me/badge?page_id=Alan-campos17" alt="Visitor Badge" />
 
